@@ -9,5 +9,5 @@ Use this samples for **Educational purposes only**
 # Ransomware decrypters.zip
 Contains collection of Free Ransomware decrypters for known ransomware.
 
-#### password
+#### Password
 All zip files are password protected and the password is "warning" (without quotes).
